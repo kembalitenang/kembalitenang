@@ -1,0 +1,25 @@
+Row Type,Action,Campaign status,Campaign,Campaign type,Networks,Budget,Currency code,Budget type,Bid strategy type,Language,Location,Exclusion,Devices,Status,Ad group status,Ad group,Ad group type,Ad status,Ad type,Headline 1,Headline 1 position,Headline 2,Headline 3,Description,Description 2,Final URL,Keyword status,Keyword,Type,customer ID
+Campaign,Add,Enabled,admindyn,Search,Google search,1500,IDR,Daily,Maximize clicks,id,Indonesia,,Computers:-100%,Eligible,,,,,,,,,,,,,,,,554-670-6886
+Ad group,Add,,admindyn,,,,,,,,,,,Eligible,Enabled,dynv,Standard,,,,,,,,,,,,,554-670-6886
+Ad,Add,,admindyn,,,,,,,,,,,Eligible,,dynv,,Enabled,Responsive search ad,Tenang kami jaga,1,Amankan situasi,Untuk usaha dan pribadi,Tenaga berpengalaman,Terlatih dan sigap,https://kembalitenangkan.dynv6.net,,,,554-670-6886
+Keyword,Add,,admindyn,,,,,,,,,,,Eligible,,dynv,,,,,,,,,,,Enabled,jasa keamanan,Broad match,554-670-6886
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,admindyn,,,,,,,,,,,Eligible,Enabled,tentee,Standard,,,,,,,,,,,,,554-670-6886
+Ad,Add,,admindyn,,,,,,,,,,,Eligible,,tentee,,Enabled,Responsive search ad,Tenang kami jaga,1,Amankan situasi,Untuk usaha dan pribadi,Tenaga berpengalaman,Terlatih dan sigap,https://tenangcepat.tentee.org,,,,554-670-6886
+Keyword,Add,,admindyn,,,,,,,,,,,Eligible,,tentee,,,,,,,,,,,Enabled,jasa keamanan,Broad match,554-670-6886
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,admindyn,,,,,,,,,,,Eligible,Enabled,pagesdev,Standard,,,,,,,,,,,,,554-670-6886
+Ad,Add,,admindyn,,,,,,,,,,,Eligible,,pagesdev,,Enabled,Responsive search ad,Wajah bersih,1,Kulit cerah,Hilangkan noda,Kulit lembab terjaga,Grosir dan eceran,https://tenangcepat.pages.dev,,,,554-670-6886
+Keyword,Add,,admindyn,,,,,,,,,,,Eligible,,pagesdev,,,,,,,,,,,Enabled,pembersih wajah,Broad match,554-670-6886
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,admindyn,,,,,,,,,,,Eligible,Enabled,netlify,Standard,,,,,,,,,,,,,554-670-6886
+Ad,Add,,admindyn,,,,,,,,,,,Eligible,,netlify,,Enabled,Responsive search ad,Wajah bersih,1,Kulit cerah,Hilangkan noda,Kulit lembab terjaga,Grosir dan eceran,https://tenangcepat.netlify.app,,,,554-670-6886
+Keyword,Add,,admindyn,,,,,,,,,,,Eligible,,netlify,,,,,,,,,,,Enabled,pembersih wajah,Broad match,554-670-6886
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,admindyn,,,,,,,,,,,Eligible,Enabled,velkat,Standard,,,,,,,,,,,,,554-670-6886
+Ad,Add,,admindyn,,,,,,,,,,,Eligible,,velkat,,Enabled,Responsive search ad,Wajah bersih,1,Kulit cerah,Hilangkan noda,Kulit lembab terjaga,Grosir dan eceran,https://tenangcepat.velkat.org,,,,554-670-6886
+Keyword,Add,,admindyn,,,,,,,,,,,Eligible,,velkat,,,,,,,,,,,Enabled,pembersih wajah,Broad match,554-670-6886
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Ad group,Add,,admindyn,,,,,,,,,,,Eligible,Enabled,pagetl,Standard,,,,,,,,,,,,,554-670-6886
+Ad,Add,,admindyn,,,,,,,,,,,Eligible,,pagetl,,Enabled,Responsive search ad,Wajah bersih,1,Kulit cerah,Hilangkan noda,Kulit lembab terjaga,Grosir dan eceran,https://admindyn.page.tl,,,,554-670-6886
+Keyword,Add,,admindyn,,,,,,,,,,,Eligible,,pagetl,,,,,,,,,,,Enabled,pembersih wajah,Broad match,554-670-6886
