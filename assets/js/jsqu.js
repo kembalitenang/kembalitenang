@@ -8,7 +8,7 @@ hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();
 
-jQuery(window).load(function(){
+jQuery(document).ready(function(){
 setTimeout(function(){
 
 
