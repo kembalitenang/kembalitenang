@@ -1,1 +1,0 @@
-# tercepatbisa.github.io
